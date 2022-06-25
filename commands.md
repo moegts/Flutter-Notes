@@ -1,0 +1,3 @@
+Create App `flutter create appName`
+Check the Flutter env if there is anything wrong `flutter doctor`
+Run the Flutter App `flutter run`
